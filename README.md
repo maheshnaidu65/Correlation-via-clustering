@@ -6,3 +6,5 @@ To begin with, K-means was applied on the number of retweets attribute to divide
 This smart grouping (K-Means clustering) brought together the tweets that have similar potential of generating retweets.
 As a result, the tweets in a cluster will have high correlation. This correlation (within a cluster of tweets) would make it easier for an LSTM model to classify the tweets into the four clusters which would inturn, improve the efficiency of forecast. 
 The right number of K-Means clusters can be calculated using elbow method. In this code I had set the number of clusters as 4. 
+The dataset can be obtained from the following location -
+https://www.kaggle.com/arathee2/demonetization-in-india-twitter-data
