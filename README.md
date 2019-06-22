@@ -1,2 +1,2 @@
-# Training-multiple-datasets 
+# Correlation via clustering 
 Read me
