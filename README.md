@@ -1,4 +1,4 @@
-# Correlation via clustering 
+# NLP and Text Analytics for Regression
 
 This work shows how clustering can contribute towards Natural Language Processing. The problem statement for the said purpose is to predict the number of retweets for tweets during demonetization in India. Domentization was an exercise by the government of India in 2016 aimed at curbing corruption. 
 The data set consists of 14000 tweets along with other attributes like time of tweet, date of tweet, retweet count etc. I attempted to predict the approximate number of retweets for a given tweet. 
